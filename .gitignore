@@ -23,3 +23,11 @@ DerivedData
 # Pods - for those of you who use CocoaPods
 Pods
 node_modules
+Builds/AndroidStudio/gradlew
+Builds/AndroidStudio/gradlew.bat
+Builds/AndroidStudio/app/CMakeLists.txt
+Builds/AndroidStudio/app/src/debug/res/values/string.xml
+Builds/AndroidStudio/app/src/release/res/values/string.xml
+Builds/AndroidStudio/gradle/wrapper/gradle-wrapper.jar
+Builds/AndroidStudio/gradle/wrapper/LICENSE-for-gradlewrapper.txt
+Builds/iOS/LaunchScreen.storyboard
